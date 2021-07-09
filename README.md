@@ -13,4 +13,5 @@ NOTAS IMPORTANTES: Si ingresa 1 para crear la Base de datos teniendo una ya crea
 Se probó en Pycharm
 
 ### Se adjuntan capturas de ejecuciones y se dejan en la siquiente carpeta drive: 
+https://drive.google.com/file/d/1ANxjWyC2CErYjEwxk-KSSixBN4OCEG1c/view?usp=sharing
 
