@@ -57,12 +57,4 @@ class Juego():
         for ganadores in podio:
             aux=aux+1
             print("El puesto ", aux, " es para el jugador: ", ganadores.nombre)
-        return "Terminé"
-
-    
-    
-
-
-
-
-
+        return podio
